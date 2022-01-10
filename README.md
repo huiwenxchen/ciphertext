@@ -2,7 +2,7 @@
 
 This program outputs the ciphertext version of a user’s plaintext.
 
-To run the program, execute $ ./caesar KEY where KEY is any number.<br/> 
+To run the program, execute $ ./caesar KEY where KEY is any number and enter plaintext when prompted.<br/> 
 For example
 
 $ ./caesar 5<br/> 
